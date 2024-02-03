@@ -1,2 +1,3 @@
 # ElectrostaticDetector
-Elactrostatic detector schematics
+
+Electrostatic detector schematics
